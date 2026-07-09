@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Redallah 👋
 
-<!--
-**RedallahTarkaoui/RedallahTarkaoui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Computer Science Engineering student** passionate about **Data Analytics**, **Machine Learning**, and **Artificial Intelligence**. I enjoy transforming raw data into meaningful insights and building practical, data-driven solutions.
 
-Here are some ideas to get you started:
+## 🚀 What I'm Currently Working On
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- DecodeLabs Data Analytics Internship
+- Building end-to-end data analytics projects
+- Strengthening my skills in Machine Learning and Artificial Intelligence
+
+## 🛠️ Tools and Technologies
+
+**Programming**
+- Python
+- SQL
+
+**Data Analysis**
+- pandas
+- NumPy
+
+**Data Visualization**
+- Matplotlib
+- Seaborn
+
+**Development**
+- Git
+- GitHub
+- Jupyter Notebook
+
+**Data Management**
+- Microsoft Excel
+
+## 📫 How to Reach Me
+
+- LinkedIn: https://linkedin.com/in/redallah-tarkaoui
+- Email: redallahtarkaoui@gmail.com

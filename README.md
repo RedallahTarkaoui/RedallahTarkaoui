@@ -4,7 +4,6 @@ I'm a **Computer Science Engineering student** passionate about **Data Analytics
 
 ## 🚀 What I'm Currently Working On
 
-- DecodeLabs Data Analytics Internship
 - Building end-to-end data analytics projects
 - Strengthening my skills in Machine Learning and Artificial Intelligence
 

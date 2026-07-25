@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Redallah </h1>
+<h1 align="center">Hi 👋, I'm Redallah</h1>
 
 <h3 align="center">Versatile Software Engineering Student</h3>
 
@@ -11,6 +11,8 @@ Learning by building, one project at a time.
 </p>
 
 ---
+
+<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
 ## 👨‍💻 About Me
 
@@ -34,7 +36,7 @@ I believe the best way to grow as an engineer is to stay curious, build consiste
 ## 🛠️ Languages & Technologies
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,django,php,symfony,javascript,html,css,tailwind,bootstrap,c,cpp,java" />
+  <img src="https://skillicons.dev/icons?i=python,django,php,symfony,javascript,html,css,tailwind,bootstrap,c,cpp,java" />
 </p>
 
 ---
@@ -42,19 +44,19 @@ I believe the best way to grow as an engineer is to stay curious, build consiste
 ## ⚙️ Tools
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=vscode,git,github" />
-<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github" />
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 </p>
 
 ---
 
 ## 📌 Current Focus
 
-- Build impactful and practical projects
-- Strengthen my software engineering skills
-- Explore modern technologies across Data, Web, and AI
-- Learn something new every day
+- 🚀 Building practical and impactful projects
+- 🌍 Expanding my knowledge across Data, Web Development, and AI
+- 💡 Strengthening my software engineering skills
+- 📖 Learning something new every day
 
 ---
 
@@ -66,21 +68,34 @@ I believe the best way to grow as an engineer is to stay curious, build consiste
 
 ---
 
-## 📫 Connect With Me
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🤝 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/redallah-tarkaoui" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" width="45" />
-</a>
+  <a href="https://www.linkedin.com/in/redallah-tarkaoui" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+  </a>
 
-<a href="mailto:redallahtarkaoui@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="45" />
-</a>
+  <a href="mailto:redallahtarkaoui@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="45"/>
+  </a>
 </p>
 
 ---
 
 <p align="center">
-<i>"Learning never stops. Building never ends."</i>
+  <i>"Learning never stops. Building never ends."</i>
 </p>
 ```

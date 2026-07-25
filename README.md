@@ -1,101 +1,67 @@
 <h1 align="center">Hi 👋, I'm Redallah</h1>
 
-<h3 align="center">Versatile Software Engineering Student</h3>
+<h3 align="center">Software Engineering Student</h3>
 
 <p align="center">
-Passionate about building practical solutions through <strong>Data Analytics</strong>, <strong>Web Development</strong>, and <strong>Artificial Intelligence</strong>.
-</p>
-
-<p align="center">
-Learning by building, one project at a time.
-</p>
-
----
-
-<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
-
-## 👨‍💻 About Me
-
-I'm a Software Engineering student who enjoys exploring different areas of technology through hands-on projects.
-
-My journey began with **Data Analytics** using Python. Today, I'm building projects in **Data Analytics** and **Web Development**, and I'll soon be expanding into **Artificial Intelligence**.
-
-I believe the best way to grow as an engineer is to stay curious, build consistently, and keep learning.
-
----
-
-## 🚀 What I'm Working On
-
-- 📊 Data Analytics projects
-- 🌐 Web Development projects
-- 🤖 AI projects coming soon
-- 📚 Continuously improving my technical skills through real-world applications
-
----
-
-## 🛠️ Languages & Technologies
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,django,php,symfony,javascript,html,css,tailwind,bootstrap,c,cpp,java" />
-</p>
-
----
-
-## ⚙️ Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github" />
-  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-</p>
-
----
-
-## 📌 Current Focus
-
-- 🚀 Building practical and impactful projects
-- 🌍 Expanding my knowledge across Data, Web Development, and AI
-- 💡 Strengthening my software engineering skills
-- 📖 Learning something new every day
-
----
-
-## 📂 Featured Projects
-
-- 📊 Data Analytics
-- 🌐 Web Development
-- 🤖 Artificial Intelligence *(Coming Soon)*
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="170"/>
+Exploring <strong>Data Analytics</strong>, <strong>Web Development</strong>, and <strong>Artificial Intelligence</strong>.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+Learning by building meaningful projects.
+</p>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/redallah-tarkaoui">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:redallahtarkaoui@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
 </p>
 
 ---
 
-## 🤝 Connect With Me
+<img align="right" width="380" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" alt="Coding">
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/redallah-tarkaoui" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
-  </a>
+### About
 
-  <a href="mailto:redallahtarkaoui@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="45"/>
-  </a>
+Technology has always fascinated me because there is always something new to discover. I enjoy taking ideas from concept to implementation, whether it's analyzing data, building web applications, or exploring artificial intelligence.
+
+My journey began with Python and Data Analytics. Today, I'm expanding into Web Development while laying the foundation for future AI projects. Every project is an opportunity to improve my technical skills and become a more complete software engineer.
+
+---
+
+### Tech Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,django,php,symfony,javascript,html,css,tailwind,bootstrap,mysql,c,cpp,java" />
 </p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,git,github" />
+<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+</p>
+
+---
+
+### Current Journey
+
+Right now, I'm focused on strengthening my foundations in software engineering through practical work. My GitHub reflects that journey—from my first Data Analytics project to the web applications I'm building next, and eventually to AI projects that combine everything I learn along the way.
+
+Rather than chasing every new technology, I prefer understanding the fundamentals and applying them through real projects.
+
+---
+
+### Philosophy
+
+> *"The best way to learn is to build. Every project is another step forward."*
 
 ---
 
 <p align="center">
-  <i>"Learning never stops. Building never ends."</i>
+Thanks for visiting my profile.
 </p>
 ```

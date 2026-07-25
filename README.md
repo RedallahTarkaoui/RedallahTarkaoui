@@ -1,43 +1,32 @@
-<h1 align="center">Hi 👋, I'm Redallah</h1>
-
-<h3 align="center">Software Engineering Student</h3>
+<h1 align="center">Hey, I'm Redallah 👋</h1>
 
 <p align="center">
-Exploring <strong>Data Analytics</strong>, <strong>Web Development</strong>, and <strong>Artificial Intelligence</strong>.
+Software Engineering Student
 </p>
 
-<p align="center">
-Learning by building meaningful projects.
-</p>
+<img align="right" width="380" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif">
 
-<p align="center">
-<a href="https://www.linkedin.com/in/redallah-tarkaoui">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:redallahtarkaoui@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
-</a>
-</p>
+I'm not trying to fit into a single corner of tech.
+
+Right now, I'm exploring it.
+
+I started with Data Analytics and built my first project with Python. Now I'm learning web development, and once I feel comfortable building complete applications, I'll move into AI.
+
+This GitHub is where that journey lives. Every repository represents something I've learned, something I've struggled with, or something I've finally figured out.
+
+I don't expect every project to be perfect.
+
+I just expect the next one to be better than the last.
 
 ---
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" alt="Coding">
-
-### About
-
-Technology has always fascinated me because there is always something new to discover. I enjoy taking ideas from concept to implementation, whether it's analyzing data, building web applications, or exploring artificial intelligence.
-
-My journey began with Python and Data Analytics. Today, I'm expanding into Web Development while laying the foundation for future AI projects. Every project is an opportunity to improve my technical skills and become a more complete software engineer.
-
----
-
-### Tech Stack
+### Technologies I'm Working With
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,django,php,symfony,javascript,html,css,tailwind,bootstrap,mysql,c,cpp,java" />
 </p>
 
-### Tools
+### My Toolbox
 
 <p>
 <img src="https://skillicons.dev/icons?i=vscode,git,github" />
@@ -47,21 +36,6 @@ My journey began with Python and Data Analytics. Today, I'm expanding into Web D
 
 ---
 
-### Current Journey
+If you've made it this far, thanks for stopping by.
 
-Right now, I'm focused on strengthening my foundations in software engineering through practical work. My GitHub reflects that journey—from my first Data Analytics project to the web applications I'm building next, and eventually to AI projects that combine everything I learn along the way.
-
-Rather than chasing every new technology, I prefer understanding the fundamentals and applying them through real projects.
-
----
-
-### Philosophy
-
-> *"The best way to learn is to build. Every project is another step forward."*
-
----
-
-<p align="center">
-Thanks for visiting my profile.
-</p>
-```
+Maybe you'll find something interesting in one of my repositories, or maybe you'll come back in a few months and see how much this profile has changed.

@@ -23,7 +23,7 @@ I just expect the next one to be better than the last.
 ### Technologies I'm Working With
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,django,php,symfony,javascript,html,css,tailwind,bootstrap,mysql,c,cpp,java" />
+<img src="https://skillicons.dev/icons?i=python,pandas,numpy,matplotlib,seaborn,django,html,css,tailwind,bootstrap,javascript,php,symfony,sql,c,cpp" />
 </p>
 
 ### My Toolbox

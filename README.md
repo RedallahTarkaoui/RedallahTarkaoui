@@ -1,41 +1,63 @@
-<h1 align="center">Hey, I'm Redallah 👋</h1>
+<h1 align="center">Redallah Tarkaoui</h1>
 
 <p align="center">
-Software Engineering Student
+  Computer Science Student @ EMSI
 </p>
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif">
+<p align="center">
+  <a href="https://www.linkedin.com/">LinkedIn</a> •
+  <a href="mailto:redallahtarkaoui@gmail.com">Email</a>
+</p>
 
-I'm not trying to fit into a single corner of tech.
+<img align="right" width="360" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif">
 
-Right now, I'm exploring it.
+## What I'm Building
 
-I started with Data Analytics and built my first project with Python. Now I'm learning web development, and once I feel comfortable building complete applications, I'll move into AI.
+I like understanding how things work before trying to build on top of them.
 
-This GitHub is where that journey lives. Every repository represents something I've learned, something I've struggled with, or something I've finally figured out.
+My path started with **data analytics**, where I worked with Python, pandas, and SQL to clean, structure, and analyze data. I'm now putting more focus on **software development**, especially web development and the fundamentals behind building complete applications.
 
-I don't expect every project to be perfect.
+The two sides are starting to meet.
 
-I just expect the next one to be better than the last.
+I'm interested in projects where data is not just analyzed, but becomes part of a real application, a useful system, or a decision-making process.
+
+This GitHub is a record of that progression.
+
+You'll find projects I built to solve a problem, experiments I made while learning something new, and coursework that helped me understand the foundations behind the tools I use.
+
+## Current Direction
+
+**Data → Software → AI**
+
+I'm currently strengthening my foundations in:
+
+* **Data:** Python, pandas, SQL, data cleaning and analysis
+* **Web:** HTML, CSS, JavaScript, PHP
+* **Programming:** C, problem solving, algorithms and software fundamentals
+* **Tools:** Git, GitHub, VS Code, Jupyter, Google Colab
+
+My long-term goal is to become comfortable moving from **raw data to a working software solution**, rather than limiting myself to one part of the process.
+
+## Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,php,mysql,c" />
+</p>
+
+## Tools I Use
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+</p>
 
 ---
 
-### Technologies I'm Working With
+### A little more context
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,javascript,html,css,mysql,c" />
-</p>
+I'm still a student, so this profile is a work in progress.
 
-### My Toolbox
+I don't want my GitHub to be a collection of tutorials or copied projects. I want it to show how I think, what I build, and how my technical range develops over time.
 
-<p>
-<img src="https://skillicons.dev/icons?i=vscode,git,github" />
-<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
-</p>
-
----
-
-If you've made it this far, thanks for stopping by.
-
-Maybe you'll find something interesting in one of my repositories, or maybe you'll come back in a few months and see how much this profile has changed.
+**Build something. Understand it. Improve it. Move on to the next problem.**

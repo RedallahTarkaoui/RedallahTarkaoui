@@ -1,4 +1,3 @@
-
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=00AD95&center=true&vCenter=true&width=650&lines=%24+whoami;Redallah+Tarkaoui;Software+Development+%7C+Artificial+Intelligence;Building+software.+Exploring+AI.)](https://git.io/typing-svg)
@@ -11,7 +10,8 @@ Redallah Tarkaoui
 Software Development & Artificial Intelligence
 
 visitor@github:~$ cat about.txt
-🎓 3rd Year Computer Science & Networks Engineering Student @ EMSI
+📍 Casablanca, Morocco
+🎓 Computer Science & Networks Engineering Student @ EMSI
 💻 Exploring Software Development & AI
 🧠 Interested in building intelligent applications
 
@@ -20,7 +20,7 @@ languages/
     Python   C++   JavaScript   SQL   PHP
 
 artificial_intelligence/
-    Machine Learning   Data Science   Data Analysis 
+    Machine Learning   Data Science   Data Analysis
 
 databases/
     PostgreSQL   PL/SQL
@@ -35,7 +35,7 @@ visitor@github:~$ cat interests.txt
 Software Engineering
 Artificial Intelligence
 Machine Learning
-Data Engineering
+Data Analysis
 Application Development
 Technology & Entrepreneurship
 
